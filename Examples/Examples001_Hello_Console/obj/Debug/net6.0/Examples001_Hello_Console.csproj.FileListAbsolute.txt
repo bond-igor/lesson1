@@ -1,0 +1,15 @@
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\bin\Debug\net6.0\Examples001_Hello_Console.exe
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\bin\Debug\net6.0\Examples001_Hello_Console.deps.json
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\bin\Debug\net6.0\Examples001_Hello_Console.runtimeconfig.json
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\bin\Debug\net6.0\Examples001_Hello_Console.dll
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\bin\Debug\net6.0\Examples001_Hello_Console.pdb
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\obj\Debug\net6.0\Examples001_Hello_Console.csproj.AssemblyReference.cache
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\obj\Debug\net6.0\Examples001_Hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\obj\Debug\net6.0\Examples001_Hello_Console.AssemblyInfoInputs.cache
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\obj\Debug\net6.0\Examples001_Hello_Console.AssemblyInfo.cs
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\obj\Debug\net6.0\Examples001_Hello_Console.csproj.CoreCompileInputs.cache
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\obj\Debug\net6.0\Examples001_Hello_Console.dll
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\obj\Debug\net6.0\refint\Examples001_Hello_Console.dll
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\obj\Debug\net6.0\Examples001_Hello_Console.pdb
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\obj\Debug\net6.0\Examples001_Hello_Console.genruntimeconfig.cache
+C:\Users\Игорь\YandexDisk\Обучение\Знакомство с языком програмирования C#\Lesson1\Examples\Examples001_Hello_Console\obj\Debug\net6.0\ref\Examples001_Hello_Console.dll
